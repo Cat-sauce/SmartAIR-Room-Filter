@@ -83,3 +83,23 @@ A compact IoT-based system to monitor indoor air quality and control air filtrat
 ## 💡 Conclusion
 
 SmartAIR Room Filter is an easy-to-build, scalable project for smart indoor air quality management, with both autonomous and remote control capabilities.
+
+---
+
+## 📷 Screenshots
+
+#### **BlynkIoT web dashboard preview**: https://drive.google.com/file/d/1PiIfNim_mCZQuJqMd1IajnrWRzCNcifP/view?usp=sharing
+#### **Project Starting Window**: https://drive.google.com/file/d/1Pm2mcSWcUjLnhvnZi7oJUukwE15OZO2V/view?usp=sharing
+#### **Project Working Window**: https://drive.google.com/file/d/1PrIVtUs65Yl8iQftrCL98eKVnNsxhDd3/view?usp=sharing
+#### **Project Working Preview**: https://drive.google.com/file/d/1Pp8RFgTGRq_A3lbT1eNQTZEU2T8xPFCv/view?usp=sharing
+
+---
+
+## 👨‍💻 Developed By
+
+#### **Name**: Harsh Vardhan Saini
+#### **Email**: hvardhnaharsh07@gmail.com 
+#### **GitHub**: https://github.com/Cat-sauce
+---
+
+
